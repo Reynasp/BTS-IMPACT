@@ -36,7 +36,7 @@ Flash forward to years later, that same group of boys from South Korea, Bangtan 
 
 -Map of the Soul: 7 – The Journey (2020)
 
-
+## Summary
 ## Legacy and cultural impact
 
 BTS have been described as "easily the biggest and most successful name in K-pop in the world" that can "do things no other name in their genre can", with Time giving them the nickname "Princes of Pop". Billboard's Senior Vice President Silvio Pietroluongo said that BTS are comparable to and as influential as the Beatles and the Monkees. Nielsen Music Vice President Helena Kosinski said that "although BTS weren't the first to open the doors to K-Pop worldwide, they were the first to become mainstream. They don't just appeal to young people but also to the 50s and 60s age demographic." As the first non-English speaking artist to make the Global Artist Chart in 2018, BTS had the second and third best-selling albums worldwide and were the second best-selling artists worldwide in terms of physical, digital, and streaming platforms, coming second only to Drake. In 2020, BTS became the first non-western and non-English speaking artist to be named IFPI's Global Recording Artist of the Year. In South Korea, BTS accounted for 41.9 percent of album sales in the first half of 2019, up from their market share of 25.3 percent the previous year.

@@ -37,7 +37,7 @@ Flash forward to years later, that same group of boys from South Korea, Bangtan 
 -Map of the Soul: 7 – The Journey (2020)
 
 ## Summary
-## Legacy and cultural impact
+**Legacy and cultural impact**
 
 BTS have been described as "easily the biggest and most successful name in K-pop in the world" that can "do things no other name in their genre can", with Time giving them the nickname "Princes of Pop". Billboard's Senior Vice President Silvio Pietroluongo said that BTS are comparable to and as influential as the Beatles and the Monkees. Nielsen Music Vice President Helena Kosinski said that "although BTS weren't the first to open the doors to K-Pop worldwide, they were the first to become mainstream. They don't just appeal to young people but also to the 50s and 60s age demographic." As the first non-English speaking artist to make the Global Artist Chart in 2018, BTS had the second and third best-selling albums worldwide and were the second best-selling artists worldwide in terms of physical, digital, and streaming platforms, coming second only to Drake. In 2020, BTS became the first non-western and non-English speaking artist to be named IFPI's Global Recording Artist of the Year. In South Korea, BTS accounted for 41.9 percent of album sales in the first half of 2019, up from their market share of 25.3 percent the previous year.
 
@@ -45,7 +45,7 @@ The group's influence has led them to address the 73rd United Nations General As
 
 
 
-## Awards and achievements
+**Awards and achievements
 
 BTS has received many awards and honors, including 33 Mnet Asian Music Awards, 29 Melon Music Awards, 24 Golden Disc Awards, 20 Seoul Music Awards, six Korean Music Awards, 19 Gaon Chart Music Awards, nine Billboard Music Awards, six American Music Awards, and six MTV Video Music Awards. BTS is also the first group in history to win Top Song Sales Artist at the Billboard Music Awards, as well as five consecutive wins for Top Social Artist. Having sold over 20.3 million albums on the Gaon Music Chart, BTS are the best-selling artist in South Korean history, surpassing Shin Seung-hun's record of 17 million albums. In South Korea, BTS hold five multi-million albums and four platinum streaming singles. In addition to being the first Korean group to receive an RIAA certification, BTS has one triple platinum single, one double platinum single, three platinum albums, three platinum singles, three gold singles, and one gold album in the US. In Japan, BTS is the first male foreign act to receive a million certification for a single; they also have two multi-platinum singles, two multi-platinum albums, two platinum albums and four gold albums in the country. BTS are also the first Korean group to receive certifications in the UK, with two silver singles, one gold single, five silver album certifications, and three gold album certifications.
 

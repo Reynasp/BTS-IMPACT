@@ -54,4 +54,13 @@ BTS have a large social influence and as of 2021, have attained 23 Guinness Worl
 
 
 
-[BTS picture by Dispatch](https://en.wikipedia.org/wiki/File:BTS_for_Dispatch_White_Day_Special,_27_February_2019_01.jpg) 
+
+
+
+
+
+                                                                         
+                                                                         
+![300px-BTS_for_Dispatch_White_Day_Special,_27_February_2019_01 (1)](https://user-images.githubusercontent.com/93630463/141670517-37ca2182-f251-40f9-b876-9035281ffff0.jpg)
+
+[BTS picture by Dispatch]

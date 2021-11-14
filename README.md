@@ -12,76 +12,46 @@ Flash forward to years later, that same group of boys from South Korea, Bangtan 
 
 ## BTS Album
 
+**Korean-language studio albums**
 
-This is BTS Album since 2013:
-* Korean-language studio albums
-Dark & Wild (2014)
-Wings (2016)
-Love Yourself: Tear (2018)
-Map of the Soul: 7 (2020)
-Be (2020)
-Butter (2021)
+-Dark & Wild (2014)
 
-*Japanese-language studio albums
-Wake Up (2014)
-Youth (2016)
-Face Yourself (2018)
-Map of the Soul: 7 – The Journey (2020)
+-Wings (2016)
 
+-Love Yourself: Tear (2018)
 
-## How is it used?
+-Map of the Soul: 7 (2020)
 
-Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
+-Be (2020)
 
-Images will make your README look nice!
-Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
-![BTS](https://en.wikipedia.org/wiki/File:BTS_for_Dispatch_White_Day_Special,_27_February_2019_01.jpg) 
+-Butter (2021)
 
-If you need to resize images, you have to use an HTML tag, like this:
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
+**Japanese-language studio albums**
 
-This is how you create code examples:
-```
-def main():
-   countries = ['Denmark', 'Finland', 'Iceland', 'Norway', 'Sweden']
-   pop = [5615000, 5439000, 324000, 5080000, 9609000]   # not actually needed in this exercise...
-   fishers = [1891, 2652, 3800, 11611, 1757]
+-Wake Up (2014)
 
-   totPop = sum(pop)
-   totFish = sum(fishers)
+-Youth (2016)
 
-   # write your solution here
+-Face Yourself (2018)
 
-   for i in range(len(countries)):
-      print("%s %.2f%%" % (countries[i], 100.0))    # current just prints 100%
-
-main()
-```
+-Map of the Soul: 7 – The Journey (2020)
 
 
-## Data sources and AI methods
-Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
-If you need to use links, here's an example:
-[Twitter API](https://developer.twitter.com/en/docs)
+## Legacy and cultural impact
 
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+BTS have been described as "easily the biggest and most successful name in K-pop in the world" that can "do things no other name in their genre can", with Time giving them the nickname "Princes of Pop". Billboard's Senior Vice President Silvio Pietroluongo said that BTS are comparable to and as influential as the Beatles and the Monkees. Nielsen Music Vice President Helena Kosinski said that "although BTS weren't the first to open the doors to K-Pop worldwide, they were the first to become mainstream. They don't just appeal to young people but also to the 50s and 60s age demographic." As the first non-English speaking artist to make the Global Artist Chart in 2018, BTS had the second and third best-selling albums worldwide and were the second best-selling artists worldwide in terms of physical, digital, and streaming platforms, coming second only to Drake. In 2020, BTS became the first non-western and non-English speaking artist to be named IFPI's Global Recording Artist of the Year. In South Korea, BTS accounted for 41.9 percent of album sales in the first half of 2019, up from their market share of 25.3 percent the previous year.
 
-## Challenges
-
-What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
-
-## What next?
-
-How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
+The group's influence has led them to address the 73rd United Nations General Assembly and perform before 400 officials, including South Korean president Moon Jae-in, at the 2018 Korea-France Friendship Concert in Paris, a summit celebrating the friendly relations between France and South Korea. That year, BTS also became the youngest ever recipients of the Order of Cultural Merit. Despite cultural medals traditionally being given to recipients with over 15 years of notable achievements, President Moon recognized the group for their contributions in spreading Korean culture and language worldwide. In September 2019, BTS were mentioned by President Moon in his announcement for his "3 major innovation strategies for the contents industry" for having pioneered innovative business models that communicate directly with fans. In 2020, BTS were bestowed the James A. Van Fleet Award in recognition of their outstanding contributions to the promotion of US-Korea relations; to date, they are the youngest honorees and only musicians to receive the award in its history. In July 2021, they were appointed Special Presidential Envoy for Future Generations and Culture by President Moon. In their role as envoys, they help to "raise awareness on global agendas, such as sustainable development, to our future generations and to strengthen the nation's diplomatic power across the world" and represent South Korea at various international events, such as the 76th United Nations General Assembly.
 
 
-## Acknowledgments
 
-* list here the sources of inspiration 
-* do not use code, images, data etc. from others without permission
-* when you have permission to use other people's materials, always mention the original creator and the open source / Creative Commons licence they've used
-  <br>For example: [Sleeping Cat on Her Back by Umberto Salvagnin](https://commons.wikimedia.org/wiki/File:Sleeping_cat_on_her_back.jpg#filelinks) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
-* etc
+## Awards and achievements
+
+BTS has received many awards and honors, including 33 Mnet Asian Music Awards, 29 Melon Music Awards, 24 Golden Disc Awards, 20 Seoul Music Awards, six Korean Music Awards, 19 Gaon Chart Music Awards, nine Billboard Music Awards, six American Music Awards, and six MTV Video Music Awards. BTS is also the first group in history to win Top Song Sales Artist at the Billboard Music Awards, as well as five consecutive wins for Top Social Artist. Having sold over 20.3 million albums on the Gaon Music Chart, BTS are the best-selling artist in South Korean history, surpassing Shin Seung-hun's record of 17 million albums. In South Korea, BTS hold five multi-million albums and four platinum streaming singles. In addition to being the first Korean group to receive an RIAA certification, BTS has one triple platinum single, one double platinum single, three platinum albums, three platinum singles, three gold singles, and one gold album in the US. In Japan, BTS is the first male foreign act to receive a million certification for a single; they also have two multi-platinum singles, two multi-platinum albums, two platinum albums and four gold albums in the country. BTS are also the first Korean group to receive certifications in the UK, with two silver singles, one gold single, five silver album certifications, and three gold album certifications.
+
+BTS have a large social influence and as of 2021, have attained 23 Guinness World Records—they were inducted into the record body's 2022 Hall of Fame in September 2021—including the world record for most Twitter engagements. As of December 2020, they have spent 210 weeks at number one on the Billboard Social 50 chart.In October 2018, BTS was awarded a fifth-class Hwagwan Order of Cultural Merit from the President of South Korea for their contributions in spreading Korean culture and language. In 2019, members of BTS were invited to become members of the Recording Academy in honor of their contributions to music and as part of a push to help diversify Grammy Award voters. On November 7, 2019, BTS became the first K-Pop act to remain on the Billboard 200 for a whole year. As of June 2021, "Love Yourself: Answer" has remained on the Billboard's main albums chart for 100 non-consecutive weeks, making it the first and currently only Korean album to do so. BTS hold the record for the most weeks—20 non-consecutive—at number one on Billboard's Artist 100 chart among all duos and groups, while its 2020 single "Dynamite" holds the record for most weeks—18 non-consecutive—at number one on the Digital Song Sales chart. In December 2020, Time magazine named BTS their 2020 "Entertainer of the Year".
+
+
+
+
+[BTS picture by Dispatch](https://en.wikipedia.org/wiki/File:BTS_for_Dispatch_White_Day_Special,_27_February_2019_01.jpg) 
